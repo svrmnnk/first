@@ -1,6 +1,0 @@
-word = input()
-if len(word) < 5:
-    print("Niet")
-else:
-    letter = word[4]
-    print(letter)
